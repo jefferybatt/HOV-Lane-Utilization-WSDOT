@@ -1,6 +1,10 @@
 # HOV-Lane-Utilization-WSDOT
 
-This table looks at the lane utilization for HOV lanes using data from WSDOT, Traffic Count Database System (TCDS). The link to the tool to find specific counts can be found here. https://wsdot.public.ms2soft.com/tcds/tsearch.asp?loc=Wsdot&mod=TCDS
+This table looks at the lane utilization for HOV lanes using data from WSDOT
+
+https://github.com/wsdot
+
+Thanks to WSDOT for their excellent, Traffic Count Database System (TCDS). The link to the tool to find specific counts can be found here. https://wsdot.public.ms2soft.com/tcds/tsearch.asp?loc=Wsdot&mod=TCDS
 
 In this example we are looking at the month of May, 2025, SR 520 Bridge Eastbound at Evergreen Point, location ID (D10). 
 
