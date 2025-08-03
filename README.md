@@ -22,4 +22,4 @@ Percent Non-HOV: 91.46%
 
 Conclusion: The HOV lane in this instance is heavily underutilized. Almost 92% of vehicles are single occupancy vehicles. This leads to innefficiency in the flow of traffic and causes unneccessary congestion. A third of the lanes are rarely used, as only 1 in 10 cars are using the left lane, and 9 out of 10 cars are forced into the middle or right lane.
 
-![HOV Lane Utilization Chart](/images/hov_lane_chart.png)
+![HOV Lane Utilization Chart](hov_lane_chart.png)
