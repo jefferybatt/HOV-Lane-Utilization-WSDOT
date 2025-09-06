@@ -8,7 +8,7 @@ Thanks to WSDOT for the Traffic Count Database System (TCDS). The link to the to
 
 In this example we are looking at the month of May, 2025, SR 520 Bridge Eastbound at Evergreen Point, location ID (D10). 
 
-Summary
+Vehicle Count Data:
 
 TOTAL Vehicles: 1,026,476
 TOTAL Vehicles in Right Lane (Lane 1): 454,032 or 44.23%  
@@ -19,7 +19,7 @@ TOTAL Vehicles in the Bus Stop (Lane 4): 5,795 or 0.56%
 TOTAL Vehicles in HOV (Lane 3&4): 87,862 or 8.56%  
 TOTAL Vehicles in non-HOV (Lane 1&2): 938,614 or 91.46%   
 
-Insights: Roughly 9 out of every 10 vehicles are using the right 2 lanes, and only 1 out of every 10 vehicles are using the left lane (HOV). The most used lane is the middle lane. 
+Summary: Roughly 9 out of every 10 vehicles are using the right 2 lanes, and only 1 out of every 10 vehicles are using the left lane (HOV). The most used lane is the center lane. 
 
 
 
