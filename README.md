@@ -22,9 +22,6 @@ TOTAL Vehicles in non-HOV (Lane 1&2): 938,614 or 91.46%
 Summary: Roughly 9 out of every 10 vehicles are using the right 2 lanes, and only 1 out of every 10 vehicles are using the left lane (HOV). The most used lane is the center lane. 
 
 
-
-
-
 ![HOV Lane Usage Chart](https://github.com/jefferybatt/HOV-Lane-Utilization-WSDOT/blob/main/HOV%20Lane%20Usage%20Chart.png)
 
 
