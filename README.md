@@ -19,4 +19,6 @@ TOTAL Vehicles in the Bus Stop (Lane 4): 5,795 or 0.56%
 TOTAL Vehicles in HOV (Lane 3&4): 87,862 or 8.56%
 TOTAL Vehicles in non-HOV (Lane 1&2): 938,614 pr 91.46%
 
-![HOV Usage Chart](HOV%20usage%20chart.png)
+![HOV Lane Usage Chart](HOV%20:Lane%20Usage%20Chart.png)
+
+
