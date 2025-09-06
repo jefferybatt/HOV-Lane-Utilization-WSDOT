@@ -11,13 +11,13 @@ In this example we are looking at the month of May, 2025, SR 520 Bridge Eastboun
 Summary
 
 TOTAL Vehicles: 1,026,476
-TOTAL Vehicles in Right Lane (Lane 1): 454,032 or 44.23%
-TOTAL Vehicles in Center Lane (Lane 2): 484,582 or 47.21%
-TOTAL Vehicles in Left Lane (3+ HOV) (Lane 3): 82,067 or 8.00%
-TOTAL Vehicles in the Bus Stop (Lane 4): 5,795 or 0.56%
+TOTAL Vehicles in Right Lane (Lane 1): 454,032 or 44.23%  
+TOTAL Vehicles in Center Lane (Lane 2): 484,582 or 47.21%  
+TOTAL Vehicles in Left Lane (3+ HOV) (Lane 3): 82,067 or 8.00%  
+TOTAL Vehicles in the Bus Stop (Lane 4): 5,795 or 0.56%  
 
-TOTAL Vehicles in HOV (Lane 3&4): 87,862 or 8.56%
-TOTAL Vehicles in non-HOV (Lane 1&2): 938,614 pr 91.46%
+TOTAL Vehicles in HOV (Lane 3&4): 87,862 or 8.56%  
+TOTAL Vehicles in non-HOV (Lane 1&2): 938,614 pr 91.46%  
 
 ![HOV Lane Usage Chart](https://github.com/jefferybatt/HOV-Lane-Utilization-WSDOT/blob/main/HOV%20Lane%20Usage%20Chart.png)
 
