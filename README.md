@@ -17,7 +17,13 @@ TOTAL Vehicles in Left Lane (3+ HOV) (Lane 3): 82,067 or 8.00%
 TOTAL Vehicles in the Bus Stop (Lane 4): 5,795 or 0.56%  
 
 TOTAL Vehicles in HOV (Lane 3&4): 87,862 or 8.56%  
-TOTAL Vehicles in non-HOV (Lane 1&2): 938,614 pr 91.46%  
+TOTAL Vehicles in non-HOV (Lane 1&2): 938,614 or 91.46%   
+
+Insights: Roughly 9 out of every 10 vehicles are using the right 2 lanes, and only 1 out of every 10 vehicles are using the left lane (HOV). The most used lane is the middle lane. 
+
+
+
+
 
 ![HOV Lane Usage Chart](https://github.com/jefferybatt/HOV-Lane-Utilization-WSDOT/blob/main/HOV%20Lane%20Usage%20Chart.png)
 
