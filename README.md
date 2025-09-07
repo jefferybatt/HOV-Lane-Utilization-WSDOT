@@ -1,6 +1,6 @@
 # HOV-Lane-Utilization-WSDOT
 
-This table looks at the lane utilization for HOV lanes using data from WSDOT
+This table looks at the lane utilization and lane speed for HOV lanes using data from WSDOT
 
 https://github.com/wsdot
 
