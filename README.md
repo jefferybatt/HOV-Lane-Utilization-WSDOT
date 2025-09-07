@@ -23,7 +23,9 @@ Summary: Roughly 9 out of every 10 vehicles are using the right 2 lanes, and onl
 
 ![HOV Lane Usage Chart](https://github.com/jefferybatt/HOV-Lane-Utilization-WSDOT/blob/main/HOV%20Lane%20Usage%20Chart.png)
 
-![HOV Lane Speed Chart](https://github.com/jefferybatt/HOV-Lane-Utilization-WSDOT/blob/main/HOV%20Lane%20Usage%20Chart.png)
+![HOV Lane Speed Chart](https://github.com/jefferybatt/HOV-Lane-Utilization-WSDOT/blob/main/Lane%20Speed.png)
+
+
 
 
 
